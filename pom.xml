@@ -3,7 +3,7 @@
 
   <groupId>mygroup</groupId>
   <artifactId>parent</artifactId>
-  <version>0.0.4</version>
+  <version>0.0.5-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>parent</name>
@@ -14,7 +14,7 @@
   </properties>
 	<scm>
 	    <developerConnection>scm:git:file:///D:/projects/repo/mavenguide</developerConnection>
-	    <tag>v0.0.4</tag>
+	    <tag>HEAD</tag>
   </scm>
 	  <distributionManagement>
 		  <repository>
