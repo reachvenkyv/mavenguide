@@ -3,7 +3,7 @@
 
   <groupId>mygroup</groupId>
   <artifactId>parent</artifactId>
-  <version>0.0.3-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>parent</name>
@@ -16,12 +16,6 @@
 	    <developerConnection>scm:git:file:///D:/projects/repo/mavenguide</developerConnection>
 	    <tag>v0.0.2</tag>	
 	  </scm>
-	  <distributionManagement>
-		  <repository>
-			  <url>file://C:/Users/reach/.m2/repository</url>
-	  		</repository>
-	  </distributionManagement>
-	  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
